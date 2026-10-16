@@ -1,4 +1,3 @@
-
 //import library
 use chess::{Board, MoveGen};
 
